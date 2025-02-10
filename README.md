@@ -1,5 +1,4 @@
-# Website Performance Analysis
-
+# Website Traffic Insights & Forecasting 
 ## Overview
 This project focuses on analyzing website performance metrics using Python. The dataset contains user engagement details such as sessions, events, and engagement rates over different time periods. The goal is to clean, process, and visualize the data to gain insights into user behavior and trends.
 
